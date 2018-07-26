@@ -3,7 +3,7 @@
         "chaincode": [
             {
                 "name": "contract",
-                "path": "src/chaincode",
+                "path": "chaincode/ping",
                 "channels": [ "defaultchannel" ],
                 "init_args": [],
                 "instantiate": true,
