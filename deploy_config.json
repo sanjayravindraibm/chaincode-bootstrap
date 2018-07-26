@@ -2,7 +2,7 @@
     "org1": {
         "chaincode": [
             {
-                "name": "Ping",
+                "name": "ping",
                 "path": "chaincode/ping",
                 "channels": [ "defaultchannel" ],
                 "init_args": [],
